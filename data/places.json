@@ -1,0 +1,144 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "The Great Wall of China",
+      "location": "China",
+      "description": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/500px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Petra",
+      "location": "Jordan",
+      "description": "Petra, originally known to its inhabitants as Raqmu, is a historical and archaeological city in southern Jordan. Petra lies around Jabal Al-Madbah in a basin surrounded by mountains which form the eastern flank of the Arabah valley that runs from the Dead Sea to the Gulf of Aqaba.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Palace_Tomb%2C_Petra.jpg/440px-Palace_Tomb%2C_Petra.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Machu Picchu",
+      "location": "Peru",
+      "description": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter (7,970 ft) mountain ridge. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which is 80 kilometers (50 mi) northwest of Cuzco.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Machu_Picchu%2C_Peru.jpg/540px-Machu_Picchu%2C_Peru.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Taj Mahal",
+      "location": "India",
+      "description": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/500px-Taj_Mahal_%28Edited%29.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Colosseum",
+      "location": "Italy",
+      "description": "The Colosseum is an oval amphitheater in the center of the city of Rome, Italy. Built of travertine limestone, tuff, and brick-faced concrete, it was the largest amphitheater ever built at the time and held 50,000 to 80,000 spectators.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/540px-Colosseo_2020.jpg"
+    },
+    { 
+      "id": 6,
+      "name": "Christ the Redeemer",
+      "location": "Brazil",
+      "description": "Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro, Brazil, created by French sculptor Paul Landowski and built by Brazilian engineer Heitor da Silva Costa, in collaboration with French engineer Albert Caquot.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg/440px-Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Chichen Itza",
+      "location": "Mexico",
+      "description": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archaeological site is located in Tinúm Municipality, Yucatán State, Mexico.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/440px-Chichen_Itza_3.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Petronas Towers",
+      "location": "Malaysia",
+      "description": "The Petronas Towers, also known as the Petronas Twin Towers, are twin skyscrapers in Kuala Lumpur, Malaysia. According to the Council on Tall Buildings and Urban Habitat's official definition and ranking, they were the tallest buildings in the world from 1998 to 2004.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Petronas_Panorama_II_%284to3%29.jpg/300px-Petronas_Panorama_II_%284to3%29.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mesa Verde",
+      "location": "United States",
+      "description": "Mesa Verde National Park is an American national park and UNESCO World Heritage Site located in Montezuma County, Colorado. The park protects some of the best-preserved Ancestral Puebloan archaeological sites in the United States.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mesa_verde_north_2007.jpg/568px-Mesa_verde_north_2007.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Stonehenge",
+      "location": "United Kingdom",
+      "description": "Stonehenge is a prehistoric monument in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of a ring of standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/440px-Stonehenge2007_07_30.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Eiffel Tower",
+      "location": "France",
+      "description": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/500px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Sydney Opera House",
+      "location": "Australia",
+      "description": "The Sydney Opera House is a multi-venue performing arts center at Sydney Harbour in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_Australia._%2821339175489%29.jpg/500px-Sydney_Australia._%2821339175489%29.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Acropolis of Athens",
+      "location": "Greece",
+      "description": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Classic_view_of_Acropolis.jpg/580px-Classic_view_of_Acropolis.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Alhambra",
+      "location": "Spain",
+      "description": "The Alhambra is a palace and fortress complex located in Granada, Andalusia, Spain. It was originally constructed as a small fortress in AD 889 on the remains of Roman fortifications, and then largely ignored until its ruins were renovated and rebuilt in the mid-13th century by the Nasrid emir Mohammed ben Al-Ahmar of the Emirate of Granada, who built its current palace and walls.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/500px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Angkor Wat",
+      "location": "Cambodia",
+      "description": "Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world by land area, on a site measuring 162.6 hectares. Originally constructed as a Hindu temple dedicated to the god Vishnu for the Khmer Empire, it was gradually transformed into a Buddhist temple towards the end of the 12th century.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20171126_Angkor_Wat_4712_DxO.jpg/500px-20171126_Angkor_Wat_4712_DxO.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Neuschwanstein Castle",
+      "location": "Germany",
+      "description": "Neuschwanstein Castle is a 19th-century Romanesque Revival palace on a rugged hill above the village of Hohenschwangau near Füssen in southwest Bavaria, Germany. The palace was commissioned by Ludwig II of Bavaria as a retreat and in honor of Richard Wagner.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/500px-Schloss_Neuschwanstein_2013.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Potala Palace",
+      "location": "China",
+      "description": "The Potala Palace in Lhasa, Tibet Autonomous Region, China was the residence of the Dalai Lama until the 14th Dalai Lama fled to India during the 1959 Tibetan uprising. It is now a museum and World Heritage Site.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lhasa_Potala.jpg/440px-Lhasa_Potala.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Burj Khalifa",
+      "location": "United Arab Emirates",
+      "description": "The Burj Khalifa, known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates. With a total height of 829.8 m (2,722 ft) and a roof height of 828 m (2,717 ft), the Burj Khalifa has been the tallest structure and building in the world since its topping out in 2009.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/400px-Burj_Khalifa.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Meteora",
+      "location": "Greece",
+      "description": "Meteora is a rock formation in central Greece hosting one of the largest and most precipitously built complexes of Eastern Orthodox monasteries, second in importance only to Mount Athos. The six monasteries are built on immense natural pillars and hill-like rounded bould",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Meteora%27s_monastery_2.jpg/500px-Meteora%27s_monastery_2.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Moai Statues",
+      "location": "Chile",
+      "description": "The Moai, or mo‘ai, are monolithic human figures carved by the Rapa Nui people on Easter Island in eastern Polynesia between the years 1250 and 1500. Nearly half are still at Rano Raraku, the main moai quarry, but hundreds were transported from there and set on stone platforms called ahu around the island's perimeter.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/AhuTongariki.JPG/660px-AhuTongariki.JPG"
+    }
+  ]
+}
